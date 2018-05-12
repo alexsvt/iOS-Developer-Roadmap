@@ -9,5 +9,6 @@
 ### Blogs
 - [ ] [SWIFT BY SUNDELL](https://www.swiftbysundell.com/)
 - [ ] [SWIFTER](http://en.swifter.tips)
+- [ ] [http://swiftdeveloperblog.com/](http://swiftdeveloperblog.com/)
 
 
